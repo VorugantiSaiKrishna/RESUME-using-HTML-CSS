@@ -1,0 +1,51 @@
+div
+{
+    border-radius: 5px;
+}
+#header
+{
+    position: fixed;
+    height:40px;
+    width: 98%;
+    background-color: blue;
+    margin-bottom: 10px
+}
+
+#name {
+    float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: white;
+}
+
+#email{
+    float:right;
+    margin-right: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: "Lucida Console", "Courier New", monospace;
+	color: white;
+}
+
+
+a:hover {
+    font-weight: bold;
+}
+
+.right
+{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    height: auto;
+    width: 99%;
+    background-color: lightgrey;
+}
+
+h3
+{
+    text-decoration: underline;
+}
+
